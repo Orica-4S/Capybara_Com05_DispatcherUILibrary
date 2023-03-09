@@ -1,0 +1,13 @@
+﻿{
+  "Id": "NszfyKNFQESb0VjfQJ7spA",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/NszfyKNFQESb0VjfQJ7spA",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/7jFCBGzHlUGmBBnAT8vsvg",
+  "Name": "Button-Always allow popup",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Created": "2023-02-27T07:33:43.0835156Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:43.0835156Z"
+}

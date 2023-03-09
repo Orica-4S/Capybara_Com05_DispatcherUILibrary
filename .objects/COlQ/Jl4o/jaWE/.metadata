@@ -1,0 +1,15 @@
+﻿{
+  "Id": "jaWEUvHgHkWwFwVowdL1Cw",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/jaWEUvHgHkWwFwVowdL1Cw",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/Jl4oBQ5srUy2wd3B_3hIWw",
+  "Name": "Customer Line Item Display",
+  "Type": "Screen",
+  "Created": "2023-02-27T07:33:43.6976349Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:43.6976349Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

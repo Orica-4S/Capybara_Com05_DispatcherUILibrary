@@ -1,0 +1,16 @@
+﻿{
+  "Id": "J9OL4lIU90WVClJFfIVOmA",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/J9OL4lIU90WVClJFfIVOmA",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/MNNKTms_VEGo_w02zjZ8Dw",
+  "Name": "SharePoint DX_IT_RPA Title",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:33:43.2039225Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:43.2039225Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

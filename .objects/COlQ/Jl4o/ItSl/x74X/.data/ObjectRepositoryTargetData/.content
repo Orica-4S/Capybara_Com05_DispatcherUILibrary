@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UnRIRuKGrki7c1bZ2Hbu6Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="16, 40, 1350, 48" DesignTimeScaleFactor="1" ElementType="Toolbar" FriendlyName="'SAP Credit'" FullSelectorArgument="&lt;sap id='titl' text='SAP Credit Management: Display List of Credit Limit Utilization' /&gt;" FuzzySelectorArgument="&lt;sap id='titl' text='SAP Credit Management: Display List of Credit Limit Utilization' check:text='SAP Credit Management: Display List of Credit Limit Utilization' /&gt;" Guid="5d880345-993f-4e17-8239-9403d5be2191" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Credit Management: Display List of Credit Limit Utilization' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5949198e9f509b364cf62632ba2e5efe.png" xmlns="">0SknpGdH5LEm0RU1Y4kBYYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

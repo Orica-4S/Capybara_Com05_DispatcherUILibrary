@@ -1,0 +1,14 @@
+﻿{
+  "Id": "7jFCBGzHlUGmBBnAT8vsvg",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/7jFCBGzHlUGmBBnAT8vsvg",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/YJ9f4ia4xUqR13RJExsP1g",
+  "Name": "Window-Pop-ups blocked",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:33:43.0529717Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:43.0529717Z"
+}

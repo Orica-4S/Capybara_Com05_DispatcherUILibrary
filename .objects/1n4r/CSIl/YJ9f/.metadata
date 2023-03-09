@@ -1,0 +1,14 @@
+﻿{
+  "Id": "YJ9f4ia4xUqR13RJExsP1g",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/YJ9f4ia4xUqR13RJExsP1g",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/CSIlZqAJ8UqlZx25oon29A",
+  "Name": "SAP BO_Credit and Collection Governance Report",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2023-02-27T07:33:42.8182218Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:42.8182218Z"
+}

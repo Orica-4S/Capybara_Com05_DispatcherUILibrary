@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Rsqq4nvGt0-waTIG96xKLA",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/Rsqq4nvGt0-waTIG96xKLA",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/YJ9f4ia4xUqR13RJExsP1g",
+  "Name": "Button - OK",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-02-27T07:33:42.8481707Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:42.8481707Z"
+}

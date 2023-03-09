@@ -1,0 +1,13 @@
+﻿{
+  "Id": "2cIdqX-ROEGeBVd0Ua93MA",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/2cIdqX-ROEGeBVd0Ua93MA",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/aSX1URvXD0qGeLqXcujSKg",
+  "Name": "Window-Multiple Selection",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:33:44.5868055Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:44.5868055Z"
+}

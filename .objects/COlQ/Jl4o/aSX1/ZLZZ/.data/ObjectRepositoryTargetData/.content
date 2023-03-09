@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="C4I5zdXIhUKkr_Lx615SDg" Reference="2pRNLVH_NEGSvI2QeoTmUw/ZLZZjZtO7UucFfryTc4yZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="660, 560, 26, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Delete'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[16]' tooltip='Delete Entire Selection   (Shift+F4)' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[16]' tooltip='Delete Entire Selection   (Shift+F4)' /&gt;" Guid="0b88524b-bba3-40f7-bd21-df0479482e1c" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='Multiple Selection for*' idx='*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="94219d0fa4fbd2db5d9efed91354c732.png" xmlns="">07hsqdexB40SmIonsO3_Z7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

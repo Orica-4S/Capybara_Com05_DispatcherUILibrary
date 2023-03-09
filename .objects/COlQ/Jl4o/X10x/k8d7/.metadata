@@ -1,0 +1,14 @@
+﻿{
+  "Id": "k8d73-CrUU2sxepnHX-_hw",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/k8d73-CrUU2sxepnHX-_hw",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/X10xM1lIOUGokWA_TBlTIg",
+  "Name": "Popup-Select Spreadsheet Window",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:33:44.6735818Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:44.6735818Z"
+}

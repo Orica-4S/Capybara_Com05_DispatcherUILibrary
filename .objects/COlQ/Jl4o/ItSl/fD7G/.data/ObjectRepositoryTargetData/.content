@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X_Hq811NUEyZMj_R_qKYCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="590, 99, 26, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Spreadsheet...'" FullSelectorArgument="&lt;sap id='tbar[1]/btn[43]' tooltip='Spreadsheet...   (Ctrl+Shift+F7)' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[1]/btn[43]' tooltip='Spreadsheet...   (Ctrl+Shift+F7)' /&gt;" Guid="8e544a77-360a-45f3-ae20-4862ce9750d6" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Credit Management: Display List of Credit Limit Utilization' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2e96f995a58e9260f81a60f8e6ce757e.png" xmlns="">0Sy_CJc_tq0-v-j66JOiNCw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

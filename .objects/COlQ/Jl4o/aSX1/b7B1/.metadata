@@ -1,0 +1,16 @@
+﻿{
+  "Id": "b7B1N-LYwkWWAUQEY9SOcw",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/b7B1N-LYwkWWAUQEY9SOcw",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/aSX1URvXD0qGeLqXcujSKg",
+  "Name": "Button-Paste",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:33:44.5592516Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:44.5592516Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

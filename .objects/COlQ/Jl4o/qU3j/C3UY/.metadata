@@ -1,0 +1,16 @@
+﻿{
+  "Id": "C3UYoiD2zUWme8agWtIG4w",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/C3UYoiD2zUWme8agWtIG4w",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/qU3jK6yyPkunBX1JPu64iQ",
+  "Name": "Layout Name",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:33:43.6199285Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:43.6199285Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

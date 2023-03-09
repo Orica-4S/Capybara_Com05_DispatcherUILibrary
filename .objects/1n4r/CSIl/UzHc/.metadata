@@ -1,0 +1,14 @@
+﻿{
+  "Id": "UzHcytobA0S4mpBwyxALEg",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/UzHcytobA0S4mpBwyxALEg",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/CSIlZqAJ8UqlZx25oon29A",
+  "Name": "SAP BO Login",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2023-02-27T07:33:42.6907247Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:42.6907247Z"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "ItSl7K0ymkeNtPlmgfAjnw",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/ItSl7K0ymkeNtPlmgfAjnw",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/Jl4oBQ5srUy2wd3B_3hIWw",
+  "Name": "Display List of Credit Limit Utilization",
+  "Type": "Screen",
+  "Created": "2023-02-27T07:33:44.2466952Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:44.2466952Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

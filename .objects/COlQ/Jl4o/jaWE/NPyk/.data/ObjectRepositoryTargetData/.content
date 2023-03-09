@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7EJyNocQJkKA95c8VaNZqQ" Reference="2pRNLVH_NEGSvI2QeoTmUw/NPykmqa7F0W-g9gOffp5pg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1295, 695, 63, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Execute'" FullSelectorArgument="&lt;sap id='tbar[1]/btn[8]' text='Execute' type='GuiButton' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[1]/btn[8]' text='Execute' type='GuiButton' check:text='Execute' /&gt;" Guid="cc75fe70-3046-4bb4-a2d9-f4ac018accdb" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEMAAAAeCAYAAAB32qNaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVGhD7ZmxbsIwEIb7Rl2qTnRH6tKhD1KJuUvfAFXq3o2JuYr6AqnCyAgbYsvKePXZif3HvpAmAqGGO+lDSWzHd5+dDOTmdjIlxaEygCDj4ZHuXj7p/vXrauB6ue5EBjdM3r7p6f2Hnj9Wo4fr5HqtkFgGm7oWETVcL9ctypAGjB2VAagMQGUAKgMYIGNNy5KEONByIfX/PwyWsSvWQtulcDnlmdT2d1QGcHIZs+JgHpmS5v7alnJzJfR340NgX6G93NPM3wcexcWedva8rX/XPCmDZSThk1jRfGPON9vk2I/155W8uABo5/FOZJsMPnfCw87omkfm5DvD4frkG/ODCWScYbxCUIjYXtNDRtc8jeuBM8kw2ISiyatrUngZravXV4YcF5BRJVdwwrBC4ooBR9v7yjgyTwtnkYHvia53giuqTjy9tx1v+zfb7BxtMjrnkRksQwpO1CbZ2OpxYvF4WG2LKywEFADbP8+aO8XJMRGL9xHPkzJAxnhRGYDKAFQGoDKAVhn6h3B1oJ8KQIZ+REIZisoITOkXcj9RoJR+1TsAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='Customer Line Item Display' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c2d369fa132d802881447eb719a49f45.png" xmlns="">0OMQY_ixV2UmwqShdHOpg4w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

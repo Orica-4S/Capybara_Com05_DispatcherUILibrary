@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9QvpGZeh8EuCPRQNDHNsAg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="29, 545, 96, 24" DesignTimeScaleFactor="1" ElementType="Toolbar" FriendlyName="'ZRPA_COM05'" FullSelectorArgument="[string.Format(&quot;&lt;sap id='usr' /&gt;&lt;sap text='{0}' type='GuiLabel' /&gt;&quot;, strLayoutName)]" FuzzySelectorArgument="&lt;sap id='usr' /&gt;&lt;sap text='ZRPA_COM05' type='GuiLabel' check:text='ZRPA_COM05' /&gt;" Guid="5a63835f-ebca-49cb-8228-b05e5f22c182" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGQAAAAcCAYAAACXkxr4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJrSURBVGhD7ZXBcSshDIa3Gd98TANuwA1kxiXk5A5y3C7exekjp7TymiAISawQgiUvic28kWa+SRbE7i/9gJdA8ef9r/NAOLIhHnOEn5BJ4HBDJoHDDZkEDjdkEjjckEngSIZYCc79cUMMruclLAtxvpXzb6/hwHPE4eWjzPkGhSGFEAmLMsQsx9ew8gut+eUpPL9tH0Q+wvNRrf0Ctc5LuPK80rA16xZOMFZ8k8ZE09eXJ5GDOouGw/v/UfcIhSEVVNxpbTxTQVlwNd9ofG6aZVYPq6mR9YaGdPXRWmneekHjsiGYs63nHGX4YwxRzQYaDW8bEtEFRWAXwhrY6cX7d0gno9OMNK+umLTj0/ehnks4xRzWB3Onc9RX3ABqk+ixRxliFq8ajsUqscqQrSE8Bo2hNYZZbYwNMjKfG4qGXOGbyQDYTPI55iY9liGiJnrGK1Hl/gC2IZYwoBBjCGqIL5okG0BNlAa22cttzGdNZEjKi39hHHR81RABbrZR/WPUhnQEFHNWHo1thtU7Fk6eXGNdMzbY8G+fkDgG3zwc43UFOqQhOddaL8Yy9Bs5pH8MZcjOB5QJ1XWk5muwadIwRLyjQzKvk2uZu2ncDMGTIP7Pa1BfoV/mVvyyIamg3g9W1XAlaM+QonjGaEITNrTRIP19esZTIwyRKE3JwNwDrK95KpNZo9rHEIZwsRZUiNVwWXTXECzOmtvdCAo8KRJxpZAGntuaOWYIULxfbyAygflJMwBhiJ1wP3obAmhdG/8XExniAG7IZGRDIKwE535wuCGTwOGGTAKHGzIJHG7IJHBkQzzmCDdkqgjhE2Z6D2qotUu3AAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='*Layout: Choose*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="26fe2e6742cd3bf4517e618c5d166652.png" xmlns="">04Wkluu98B0eMx_4yUDIIbg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="ZRPA_COM05" Name="strLayoutName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="txlHdYEJ6k6CDQN8xskHQw" Reference="2pRNLVH_NEGSvI2QeoTmUw/pL7lNNTKeUOh7DSWqCVieA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="473, 368, 26, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Continue (Enter)'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[0]' tooltip='Continue   (Enter)' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[0]' tooltip='Continue   (Enter)' /&gt;" Guid="d7a94240-da10-4983-985f-2c7bbe3f2e13" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='Select Spreadsheet' idx='*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="28b6ab80087f5c0447e6d582c675028b.png" xmlns="">0ggS1JoCiF0qcY4Nc5KkoGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

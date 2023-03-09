@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ASxzXe9L4karDRBVo6c_2g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://sapbo.es.orica.net/BOE/OpenDocument/2206111048/LumiraWebApp/view.faces" DesignTimeRectangle="1315, 232, 25, 50" DesignTimeScaleFactor="1" FriendlyName="'COM.SAP.IP.BI.ICON COMP…'" FullSelectorArgument="&lt;webctrl id='openDocChildFrame' tag='IFRAME' /&gt;&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' uipath-html-title='Export' /&gt;" FuzzySelectorArgument="&lt;webctrl id='openDocChildFrame' tag='IFRAME' /&gt;&lt;webctrl tag='SPAN' uipath-html-title='Export' type='' class='myIcon sapUiIcon sapUiIconMirrorInRTL sapUiIconPointer zenControl icon_RECTANGLE enabled' aaname='' /&gt;" Guid="cd84e980-a598-415d-a931-2b9b9bcee1b7" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='openDocFrame' title='Credit and Collection Governance Report' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1f8754bf97308ac87bebc3666ee94d95.png" xmlns="">0fMisvyzAwk2pCBR6kdfHbg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

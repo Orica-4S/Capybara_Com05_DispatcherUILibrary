@@ -1,0 +1,13 @@
+﻿{
+  "Id": "XrVt_3-1gEyZmg0GouTT2A",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/XrVt_3-1gEyZmg0GouTT2A",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/aSX1URvXD0qGeLqXcujSKg",
+  "Name": "Button-Copy",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-02-27T07:33:44.5010155Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:44.5010155Z"
+}

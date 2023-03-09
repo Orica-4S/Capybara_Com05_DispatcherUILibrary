@@ -1,0 +1,17 @@
+﻿{
+  "Id": "zHmGhyN3xEyBLnTfUePt4A",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/zHmGhyN3xEyBLnTfUePt4A",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/jaWEUvHgHkWwFwVowdL1Cw",
+  "Name": "Button - Customer Account_Multiple Selection",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-02-27T07:33:43.7771895Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:43.7771895Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

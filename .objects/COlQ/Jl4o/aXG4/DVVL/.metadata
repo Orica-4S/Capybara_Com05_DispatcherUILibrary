@@ -1,0 +1,14 @@
+﻿{
+  "Id": "DVVLnSQcwUm97J6GKUK2TQ",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/DVVLnSQcwUm97J6GKUK2TQ",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/aXG4pst_Dkau4lR5WnmqTg",
+  "Name": "Input-Transaction Code",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-02-27T07:33:44.8196991Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:44.8196991Z"
+}

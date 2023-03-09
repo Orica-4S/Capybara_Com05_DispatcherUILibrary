@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jH0BtBqRikW0530kYsrJlQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="228, 148, 77, 32" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'push button Done'" FullSelectorArgument="&lt;ctrl name='Pop-ups blocked:' role='dialog' /&gt;&lt;ctrl name='Done' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Pop-ups blocked:' role='dialog' /&gt;&lt;ctrl name='Done' role='push button' automationid='' /&gt;" Guid="95c0e7b4-c770-43d5-a2c6-acbd2e11140d" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFEAAAAkCAYAAADxYNZEAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGkSURBVGhD7Zq7SgNBGEbzNj6KD+JL5BUEH8DG0kKwsbKxsBHsgiAi2qQJeAGNN+J95Ax8y2ZZovF3d4l8Bz52dv6ZDTnM7jTTSyaMJf4BhcSto7u0tHaWev1j55vgCV+ikGiB8wVfopBYN9CZHWGJgQhLDERYYiDCEgMRlhiIsMRAhCUGIiwxENGaxCqnVy9pdf+6duyiRLQqcTCaZHEEibDIIkWrEvfOH6f6hrev6fLhfapvkSI6lbg5GOd+2ssbw7xSn98+cx+C+7sXucY8YDx1QlvPoV6ex7NUazKiU4m8ykAbgePJRxa3sj3Krzv31CSRK4LKNWTSZg41JPIs/UaTEZ1K3Dm5zyuori7BSJVE1cr3SKtCn8Y2GdGpRL6HWjXV+jwS25JWjWhVonbn9cOb/MdZhfp+1b3O2nRmSWQ1g3Z5rvRpbJMRrUoUyENaeQOgTZ9AIjKpzZJIDoZPxcaCeG1ITUe0JvE/RlhiIMISAxGWGIiwxECEJQYiLDEQYYmBCEsMRFhiIKKQ6ANN86X2QJOP1v08eKo9Wmd+jyWGSekLV8zbpdAtRCEAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_2' title='Pop-ups blocked:' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="076ba76245788cfbf10a32b7dc52aa66.png" xmlns="">0WjqyGdHrD0yzTWVohOUgwQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

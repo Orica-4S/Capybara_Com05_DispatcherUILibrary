@@ -1,0 +1,14 @@
+﻿{
+  "Id": "aXG4pst_Dkau4lR5WnmqTg",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/aXG4pst_Dkau4lR5WnmqTg",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/Jl4oBQ5srUy2wd3B_3hIWw",
+  "Name": "SAP Easy Access  -  User Menu",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2023-02-27T07:33:44.7923101Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:44.7923101Z"
+}

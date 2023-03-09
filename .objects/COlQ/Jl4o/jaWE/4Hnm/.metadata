@@ -1,0 +1,14 @@
+﻿{
+  "Id": "4HnmEtdIx0CLx-UODJGOhw",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/4HnmEtdIx0CLx-UODJGOhw",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/jaWEUvHgHkWwFwVowdL1Cw",
+  "Name": "Popup-Export_Customer Line Items",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:33:44.0366008Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:44.0366008Z"
+}

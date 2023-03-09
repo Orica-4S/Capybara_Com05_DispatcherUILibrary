@@ -1,0 +1,16 @@
+﻿{
+  "Id": "3SRHT0JIxUS34cRpmAVW6Q",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/3SRHT0JIxUS34cRpmAVW6Q",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/YJ9f4ia4xUqR13RJExsP1g",
+  "Name": "Prompt Window",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:33:43.0238604Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:43.0238604Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

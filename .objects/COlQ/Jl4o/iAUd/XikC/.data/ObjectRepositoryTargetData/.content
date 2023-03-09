@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1ZxKgnl90Ee1EKyscezT9A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="212, 99, 26, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Execute (F8)'" FullSelectorArgument="&lt;sap id='tbar[1]/btn[8]' tooltip='Execute   (F8)' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[1]/btn[8]' tooltip='Execute   (F8)' /&gt;" Guid="ccb098a5-8599-40fa-9b22-0be6c137db08" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Credit Management: Credit Exposure List' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cb44644d83b6b8286c00e7ec06e92122.png" xmlns="">0U7Ie3Qdx1kS6tvrrhdxW7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

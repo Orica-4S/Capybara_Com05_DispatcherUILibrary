@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tU9oVjSfx0S49PIX9MmvpA" Reference="2pRNLVH_NEGSvI2QeoTmUw/XrVt_3-1gEyZmg0GouTT2A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="524, 560, 26, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Copy (F8)'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[8]' tooltip='Copy   (F8)' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[8]' tooltip='Copy   (F8)' /&gt;" Guid="7fedf390-f027-469c-989c-75cbd5b1e013" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='Multiple Selection for*' idx='*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ca62eb690ed11ec5aa726fe244c47d3c.png" xmlns="">0lvqerAsrUE6p5Elr70aUwg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

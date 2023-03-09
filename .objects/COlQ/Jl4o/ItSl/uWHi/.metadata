@@ -1,0 +1,16 @@
+﻿{
+  "Id": "uWHiz6lPNEK95MnRwaW8Yw",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/uWHiz6lPNEK95MnRwaW8Yw",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/ItSl7K0ymkeNtPlmgfAjnw",
+  "Name": "Popup-Export_List of Credit Limit Utilization",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:33:44.3480478Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:44.3480478Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

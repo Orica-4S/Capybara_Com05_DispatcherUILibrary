@@ -1,0 +1,17 @@
+﻿{
+  "Id": "MNNKTms_VEGo_w02zjZ8Dw",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/MNNKTms_VEGo_w02zjZ8Dw",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/CSIlZqAJ8UqlZx25oon29A",
+  "Name": "SharePoint DX_IT_RPA Page",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2023-02-27T07:33:43.146494Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:43.146494Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

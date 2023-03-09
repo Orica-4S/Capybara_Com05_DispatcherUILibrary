@@ -1,0 +1,15 @@
+﻿{
+  "Id": "qU3jK6yyPkunBX1JPu64iQ",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/qU3jK6yyPkunBX1JPu64iQ",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/Jl4oBQ5srUy2wd3B_3hIWw",
+  "Name": "Choose Layout",
+  "Type": "Screen",
+  "Created": "2023-02-27T07:33:43.5021668Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:43.5021668Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

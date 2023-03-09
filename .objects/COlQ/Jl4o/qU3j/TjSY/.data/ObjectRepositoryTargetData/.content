@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1q2aq8LJokagRYFFu-t9dg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="181, 77, 409, 25" DesignTimeScaleFactor="1" ElementType="Toolbar" FriendlyName="'TextField Search'" FullSelectorArgument="&lt;sap tooltip='*' type='GuiTextField' /&gt;" FuzzySelectorArgument="&lt;sap tooltip='*' type='GuiTextField' /&gt;" Guid="79db4980-0222-4cea-ad4a-6a140efb55b4" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAZ0AAAAdCAYAAABxGLHOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADBSURBVHhe7d2xDYNAEERRF0UF7oQ+yGmGHjGHZIuTzwnyTvSeNNJ28MN9TPO6jwYAd4260nZGBwCqddF5LpuZmVnJmq/oAMC/iQ4AMaIDQEwXnfM6iA4AFa59ER0ASokOADGiA0CM6AAQIzoAxIgOADGiA0CM6AAQIzoAxIgOADGiA0CM6AAQIzoAxIgOADGiA0CM6AAQ00XH51AAKr374l01AOVEB4CYn9ExMzOrWNNFBwAqfaIzGgDcNerKNK/7C2QZ0J0JTddGAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='Find' idx='*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f75446e1ba0fa7d3de466d205c82ced5.png" xmlns="">0z1qU8dqiVUyGPvmx1TUC3Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

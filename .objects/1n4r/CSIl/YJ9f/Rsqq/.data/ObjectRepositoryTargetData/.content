@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a-OZo670AkCzSk0aI5AP5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://sapbo.es.orica.net/BOE/OpenDocument/2206111048/LumiraWebApp/view.faces" DesignTimeRectangle="950, 679, 80, 32" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'OK'" FullSelectorArgument="&lt;webctrl id='openDocChildFrame' tag='IFRAME' /&gt;&lt;webctrl aaname='OK' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;footer&amp;gt;div&amp;gt;button' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='openDocChildFrame' tag='IFRAME' /&gt;&lt;webctrl aaname='OK' type='' tag='BUTTON' class='sapMBarChild sapMBtn sapMBtnBase zenDialogOkButton' check:text='OK' /&gt;" Guid="551fc8ec-e912-490e-ac4e-e558c96d0e57" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='openDocFrame' title='Credit and Collection Governance Report' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c98b79227271e36369b7a929f1df92dd.png" xmlns="">0aRvcys5sgES9mqnOnNod9Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

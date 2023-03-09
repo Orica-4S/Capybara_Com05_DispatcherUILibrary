@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eXOB7mXUvkSRYnwBctgdgw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="616, 176, 71, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Generate'" FullSelectorArgument="&lt;sap id='tbar[0]/btn[0]' text='Generate' tooltip='Create new file   (Enter)' /&gt;" FuzzySelectorArgument="&lt;sap id='tbar[0]/btn[0]' text='Generate' tooltip='Create new file   (Enter)' check:text='Generate' /&gt;" Guid="27493c68-a1d9-4c33-9fd8-010f80acc306" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEsAAAAeCAYAAABkDeOuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFcSURBVGhD7ZZBcoMwDEV7o3IADsDRQ27BTO+QmXRBY2PZgsi2fpuZZNK/eAtsSRYPQfLxOU4r8UFZAJQFQFkAlAVAWQCUBUBZAJQFQFkAkKxhvK7nr+89ix37jrhlDYsIujTXXoVhvDz8Ybpk5YMNKacXna7nyZIJchxcxBbmvGe8xnpSodwtr0x34tajVefUqe8BktUrXJq55rU4eTe2ZuWGt31dF82N+ZKTHqLEb/VSfNrr1Ze1Fr+WNaeDhNigEaebvrsBmYqwB+Za7OXbZ9Xqy1qLP7+GuwYlzsK4YV0XzRVkOjQtWSaHmjXAD3wZYWE3+krcMS7gkeXNjWsqX1+3ZNXqe3DJCuTGzL8O0uC9VM8NRFlg7nE/XKPfrGN+D7esQG5AMac1ObA0pcgN12WhudV4FaO/q7VfQ12vByTrv0NZAJQFQFkAlAVAWQCUBUBZAJQFQFlupvUHXOTCMzeXUTEAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='Customer Line Item Display' idx='*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8cce383ac9611325bdc21198d350a962.png" xmlns="">0eVAJf7EtJ0KI3Ba5S5IRAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

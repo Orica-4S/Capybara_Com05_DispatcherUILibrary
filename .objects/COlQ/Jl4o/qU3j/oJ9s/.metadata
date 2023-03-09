@@ -1,0 +1,16 @@
+﻿{
+  "Id": "oJ9sGf_vdEaWhEybb2WIvg",
+  "Reference": "OutJaFtV8kCnxlrHIUmaGg/oJ9sGf_vdEaWhEybb2WIvg",
+  "ParentRef": "OutJaFtV8kCnxlrHIUmaGg/qU3jK6yyPkunBX1JPu64iQ",
+  "Name": "Choose Layout",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-27T07:33:43.5625989Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-27T07:33:43.5625989Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

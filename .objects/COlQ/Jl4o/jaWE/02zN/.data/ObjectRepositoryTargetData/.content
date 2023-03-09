@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FKUqjhGt0kawcc0Rfcf-_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="800, 99, 26, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Select'" FullSelectorArgument="&lt;sap tooltip='*Select layout*' type='GuiButton' /&gt;" FuzzySelectorArgument="&lt;sap tooltip='*Select layout*' type='GuiButton' /&gt;" Guid="0125166b-155d-4b80-85a3-1fc80cfde88b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADqSURBVEhL7ZQ7EoMgFEWzKBdD6zKYsc8KnLHIGrRzARZsIGNpbZkmjdULJIA/fAhxoKE4Bd8D7yq313uCGCRxMJI4GKi4Ku6Q5ech9WjcxwQqpnkDrWoPHZCig+dRmzWQlb1eayOJV1BDjihRbuyIv1jTfytD2bYfx1O8kIlsdZlF/wOqQa5BcM9YyBkXlLKtclUH4GJS27P2LnXLxbvyOuTuLtY3M+X6i0CM2V6xv26821zMWa5BQMW7t3ojFnnOH9Io518gPkSWmzIlU4eQpT7xkPiJVyx+LeO4mQvEfiRxMJI4GJHEE3wAgnfxGK7RNnAAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' title='*Customer Line Item Display*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e4d491bd7668e0a163b6afa3b6c82514.png" xmlns="">0eOgyaHT36EKiKWQ4cJxGgA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
