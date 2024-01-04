@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="gqegddxuKUurG3RUBR-3Lg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="c5H10mv6jUmzFirLB1ALxw" Reference="OutJaFtV8kCnxlrHIUmaGg/kgChnGWBlUionaRRVPXY4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="800, 219, 39, 27" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Multiple'" FullSelectorArgument="&lt;sap id='usr/btn%_O_CRSGM_%_APP_%-VALU_PUSH' tooltip='Multiple selection' type='GuiButton' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/btn%_O_CRSGM_%_APP_%-VALU_PUSH' tooltip='Multiple selection' type='GuiButton' /&gt;" Guid="66b35807-888e-4364-bd82-1acc5d7e28a2" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Credit Management: Credit Exposure List' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="1919085b4fed290003b8e24a1b7b9d5f.png" xmlns="">09oX6cNf_sUqEPnxchyNfqA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="800, 219, 39, 27" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Button Multiple'" FullSelectorArgument="&lt;sap id='usr/btn%_O_CRSGM_%_APP_%-VALU_PUSH' tooltip='Multiple Selection' type='GuiButton' /&gt;" FuzzySelectorArgument="&lt;sap id='usr/btn%_O_CRSGM_%_APP_%-VALU_PUSH' tooltip='Multiple selection' type='GuiButton' /&gt;" Guid="66b35807-888e-4364-bd82-1acc5d7e28a2" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Credit Management: Credit Exposure List' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="30db469aa008028a7c4f6c31029f1ef2.png" xmlns="">06CrrbJX0TkKbiRmtBPmefA</imageRef>
     </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
+    <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>
